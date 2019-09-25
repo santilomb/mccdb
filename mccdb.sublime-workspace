@@ -1,0 +1,371 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"config_webServer_debug"
+			],
+			[
+				"confi",
+				"config_APMServer_ip"
+			],
+			[
+				"now",
+				"nowFormat"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"trace",
+				"trace_json"
+			],
+			[
+				"re",
+				"return"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"git: com",
+				"Git: Commit"
+			],
+			[
+				"git: ad",
+				"Git: Add..."
+			],
+			[
+				"packa",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"congi",
+				"Package Control: Install Package"
+			],
+			[
+				"install Package control",
+				"Install Package Control"
+			],
+			[
+				"Install Package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 392.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/p044182/Documents/repos/mccdb",
+		"/C/Users/p044182/Documents/repos/mccdb/application",
+		"/C/Users/p044182/Documents/repos/mccdb/application/config",
+		"/C/Users/p044182/Documents/repos/mccdb/application/controllers",
+		"/C/Users/p044182/Documents/repos/mccdb/assets",
+		"/C/Users/p044182/Documents/repos/mccdb/assets/grocery_crud"
+	],
+	"file_history":
+	[
+		"/C/Users/p044182/Downloads/mcc_bd.sql",
+		"/C/Users/p044182/Documents/repos/CI-AdminLTE/install/sql/ci_adminlte.sql",
+		"/C/Users/p044182/Documents/repos/mccdb/application/controllers/Examples.php",
+		"/C/Users/p044182/Documents/repos/mccdb/application/config/grocery_crud.php",
+		"/C/Users/p044182/Documents/repos/mccdb/assets/grocery_crud/languages/spanish-uy.php",
+		"/C/Users/p044182/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/p044182/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/p044182/Documents/repos/mccdb/readme.rst",
+		"/C/Users/p044182/Documents/repos/mccdb/README.md",
+		"/C/Users/p044182/Documents/repos/.git/description",
+		"/C/Users/p044182/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/p044182/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/p044182/Downloads/FTPDescargarResumenCuentaVISAMaster.properties",
+		"/C/Sonic/MQ7.6/bin/setenv",
+		"/C/Users/p044182/Desktop/OPENSHIFT/inventory_aio",
+		"/C/Users/p044182/Documents/BPBA/Scripts/usuarios_produccion.sh",
+		"/C/Users/p044182/Downloads/cve-2019-11477--2019-06-17-1629.sh",
+		"/C/Users/p044182/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/TOU7S2TI/FTPBuzonArchivos.properties",
+		"/C/Users/p044182/Desktop/temp/FTPBuzonArchivos.properties",
+		"/C/Users/p044182/Documents/RSA Key/linux_servers_authorized_keys.txt",
+		"/C/Users/p044182/Downloads/check_http_win.vbs",
+		"/C/Users/p044182/Downloads/listado_blanco.csv",
+		"/C/Users/p044182/AppData/Local/Temp/scp36091/Alliance/Access/usrdata/interfaces/tesinaswift/backup/00369961.in.bkp",
+		"/C/Users/p044182/Documents/BPBA/registroUsuarios.sh",
+		"/C/Users/p044182/Downloads/mail.properties",
+		"/C/Users/p044182/Downloads/listado_gris.csv",
+		"/C/Users/p044182/Downloads/listado_gris.txt",
+		"/C/Users/p044182/Desktop/TEMPORAL/sgi.ccba.usr.bpba.key",
+		"/C/Users/p044182/Downloads/sgi.ccba.usr.bpba_base64.cer",
+		"/C/Users/p044182/Desktop/TEMPORAL/sgi.ccba.usr.bpba.csr",
+		"/C/Users/p044182/Documents/Cursillo/Base de Datos MCC/mcc.mwb",
+		"/C/Users/p044182/Desktop/PASE/RESTMuleBIPProcess.properties",
+		"/C/Users/p044182/AppData/Local/Temp/scp13201/root/PaseBKP/config/database/DBSecuencial-ENC.properties",
+		"/C/Users/p044182/Desktop/temp/Movil/cc1/banking-api-tmf.log",
+		"/C/Users/p044182/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/TOU7S2TI/bankingApiMessage.properties",
+		"/C/Users/p044182/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/TOU7S2TI/bankingApiErrorsMsg.properties",
+		"/C/Users/p044182/Desktop/TEMPORAL/definition-emp.xml",
+		"/C/Users/p044182/Desktop/TEMPORAL/definition-emp.xmlBKP",
+		"/C/Users/p044182/Desktop/TEMPORAL/definition-ind.xml",
+		"/C/Users/p044182/Desktop/TEMPORAL/definition-ind.xmlBKP",
+		"/C/Users/p044182/AppData/Local/Temp/scp59111/root/PaseBKP/config/definitions/definition-emp.xml",
+		"/C/Users/p044182/AppData/Local/Temp/scp32848/usr/local/nagvis/share/userfiles/gadgets/GraphCentreon.php",
+		"/C/Users/p044182/Downloads/nagios/ezcGraphPieChart_2.php",
+		"/C/Users/p044182/Downloads/nagios/ezcGraphPieChart_1.php",
+		"/C/Users/p044182/Downloads/nagios/pChartPieChart_1.php",
+		"/C/Users/p044182/Downloads/nagios/GraphCentreon.php",
+		"/C/Users/p044182/Downloads/nagios/GraphCentreonTinyNet.php",
+		"/C/Users/p044182/AppData/Local/Temp/scp22279/root/pepe_ldap_rhel7/pepe.sh",
+		"/C/Users/p044182/Downloads/chrome-net-export-log.json",
+		"/C/Users/p044182/Desktop/temp/RESTProvinciaVidaSinHash.properties",
+		"/C/Users/p044182/Downloads/BPBA SOJ homologacion/BPBA SOJ homologacion.cer",
+		"/C/Users/p044182/Downloads/BPBA SOJ homologacion/COELSA Alias CA/COELSA Alias CA.cer",
+		"/C/Users/p044182/Desktop/simulacionPrestamo.xml",
+		"/C/Users/p044182/AppData/Roaming/Sublime Text 3/Packages/Compare Side-By-Side/SBSCompare.sublime-settings",
+		"/C/Users/p044182/Desktop/esbprocess01.srv.bpba.csr",
+		"/C/Users/p044182/Desktop/nginx.conf",
+		"//10.205.96.181/c$/APP/Logs/XFSServer[5012]2019-02-20_06-31.txt",
+		"//10.58.160.181/c$/APP/Logs/SSBrowser[6600]2019-01-30_07-20.txt.04",
+		"//10.205.96.181/c$/APP/Logs/SSBrowser[6756]2019-02-20_06-32.txt",
+		"//10.205.96.181/c$/APP/Logs/SSBrowser[6720]2019-01-30_07-20.txt",
+		"//CRMAPP02PR/e$/app/client/product/12.1.0/client_1/network/admin/tnsnames.ora",
+		"//PaiserverLogs/LogsAnalisis/Remedy/20190201/catalina.2019-02-01.log",
+		"/C/Users/p044182/AppData/Roaming/mRemoteNG/mRemoteNG.exe_Url_pjpxdehxpaaorqg2thmuhl11a34i3ave/1.75.7012.16814/user.config",
+		"/C/Users/p044182/Desktop/srvmuleqa.srv.bpba.csr",
+		"/C/Users/p044182/AppData/Local/Temp/scp46539/var/www/html/AdministracionWEB/comandos/backupVMs_XLS.php",
+		"/C/Users/p044182/Downloads/Informe_Backups_VMs_01-01-2019.xlsx",
+		"/C/Users/p044182/Downloads/remotecontrol.jnlp",
+		"/C/Users/p044182/Downloads/u_ex181231.log",
+		"/C/Program Files (x86)/remotecontrol.jnlp",
+		"/C/soft/nginx 1.15.6.1 Crow/conf/nginx-win.conf",
+		"/C/Users/p044182/Desktop/Simulacro Examen/Simulacro Examen/CS/Clientedto.cs",
+		"/C/soft/nginx-1.15.6/conf/nginx.conf",
+		"/C/soft/nginx/conf/nginx.conf",
+		"//10.175.224.182/c$/APP/Logs/XFSServer[2776]2018-11-14_01-30.txt",
+		"//srvbipsucweb1/d$/Turnos/TurneroCaja/app/config.js",
+		"/C/Users/p044182/Downloads/archivo.pot",
+		"/C/Users/p044182/Downloads/Calluna 3.2.0/Plugins/calluna-core/calluna-core/languages/calluna-shortcodes.pot",
+		"/C/Users/p044182/Downloads/Calluna 3.2.0/Plugins/wp-hotelier/wp-hotelier/includes/class-htl-frontend-scripts.php",
+		"/C/Users/p044182/Downloads/Calluna 3.2.0/Plugins/wp-hotelier/wp-hotelier/includes/htl-widget-functions.php",
+		"/C/Users/p044182/Downloads/Calluna 3.2.0/Plugins/calluna-core/calluna-core/calluna-core.php",
+		"/C/Users/p044182/Downloads/Calluna 3.2.0/Plugins/calluna-core/calluna-core/index.php",
+		"/C/Users/p044182/Downloads/Calluna 3.2.0/Theme/calluna/templates/template-sidebar-right.php",
+		"/C/Users/p044182/Downloads/Calluna 3.2.0/Plugins/wp-hotelier/wp-hotelier/languages/wp-hotelier.pot",
+		"/C/Users/p044182/Downloads/Calluna 3.2.0/Plugins/wp-hotelier/wp-hotelier/templates/widgtes/content-widget-room.php",
+		"/C/Users/p044182/Downloads/Calluna 3.2.0/Plugins/wp-hotelier/wp-hotelier/templates/global/datepicker.php",
+		"/C/Users/p044182/Downloads/Calluna 3.2.0/Plugins/calluna-core/calluna-core/init.php",
+		"/C/Users/p044182/Downloads/Calluna 3.2.0/Theme/calluna/languages/calluna-td.pot",
+		"/C/Users/p044182/Downloads/Calluna 3.2.0/Theme/calluna/templates/template-reservation-form.php",
+		"/C/Users/p044182/AppData/Local/Temp/scp00578/home/d97cc3d/Domain1.SD_T_ProcesosContainer2.log",
+		"/C/Users/p044182/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/TOU7S2TI/Update_v1.9.0.sql",
+		"//ccba/files/PortalMicro/NAGIOS/Soft/Agente/Linux_2018/Pasos a seguir.txt",
+		"//crmapp03pr/e$/Siebel/16.0.0.0.0/ses/siebsrvr/log/ENT_PR.SSPP3.log",
+		"/C/Users/p044182/AppData/Local/Temp/scp03259/applications/EPAgent_Sonic/EPAgent_Sonic.py",
+		"//crmapp03pr/e$/Siebel/16.0.0.0.0/ses/siebsrvr/BIN/crash_7296.txt",
+		"//srvbipsuc01/d$/Turnos/Tv/css/styles.css",
+		"//srvbipsuc01/d$/Turnos/Tv/index.html",
+		"/C/Users/p044182/Downloads/Calluna 3.2.0/READ_FIRST_IMPORTANT!.txt",
+		"/C/Users/p044182/Desktop/temp/BIP/PaqueteUtils$1.class",
+		"//ccba/files/PortalMicro/CA APM/Instalación-APM-Producción/2-Instalación-Colector/users.xml",
+		"/C/Users/p044182/Downloads/Calluna 3.2.0/Theme/calluna-child/calluna-child/functions.php",
+		"//srvbipsuc01/d$/Turnos/Turnero/app/components.js",
+		"//srvbipsuc01/d$/Turnos/Turnero/index.html",
+		"//srvbipsuc01/d$/Turnos/Tv/bower_modules/requirejs/require.js",
+		"//srvbipsuc01/d$/Turnos/Tv/bower_modules/requirejs/README.md",
+		"//srvbipsuc01/d$/Turnos/Tv/bower_modules/requirejs/description",
+		"//srvbipsuc01/d$/Turnos/Tv/app/require.config.js",
+		"//srvbipsuc01/d$/Turnos/Tv/app/config.js",
+		"//srvbipsuc01/d$/Turnos/Tv/app/config.js.prod",
+		"//srvbipsuc01/d$/Turnos/Tv/app/startup.js",
+		"//srvbipsuc01/d$/Turnos/Tv/app/router.js",
+		"//srvbipsuc01/d$/Turnos/Tv/main/index.html",
+		"//srvbipsuc01/d$/Turnos/Tv/bower_modules/quark/dist/quark.js",
+		"//srvbipsuc01/d$/Turnos/Tv/bower_modules/quark/dist/quark-component.html",
+		"//srvbipsuc01/d$/Turnos/Tv/bower_modules/knockout/README.md",
+		"//srvbipsuc01/d$/Turnos/Tv/main/index.js",
+		"//srvbipsuc01/d$/Sockets/Turnos/www/index.html",
+		"//srvbipsuc01/d$/Sockets/Turnos/tvsockets.js",
+		"//srvbipsuc01/d$/Turnos/Tv/bower_modules/socket.io-client/socket.io.js",
+		"//srvbipsuc01/d$/Sockets/Turnos/config.json",
+		"//srvbipsuc01/d$/Turnos/web.config",
+		"//srvbipsuc01/d$/Sockets/Turnos/package.json",
+		"//srvbipsuc01/d$/Sockets/Turnos/README.md",
+		"//ccba/files/PortalMicro/CA APM/Instalación-APM-Producción/1-Instalación_MOM-BD/introscopec",
+		"/C/Users/p044182/AppData/Roaming/Sublime Text 3/Packages/User/SBSCompare.sublime-settings",
+		"/C/Users/p044182/Downloads/Desktop/buscadorClientes.aspx",
+		"/C/Users/p044182/Downloads/Desktop/buscadorClientes.old",
+		"/C/Users/p044182/Desktop/temp/Domain1.SD_T_ProcesosContainer2.log",
+		"/C/Users/p044182/Desktop/temp/_certs_tas/portaltas.child01.root.test.csr"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sql",
+			"mysq",
+			"91",
+			"10.5.9.69",
+			"backend_comms",
+			"complete_ok:False",
+			"JSON DATA",
+			"8090",
+			"500"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 139.0
+	},
+	"pinned_build_system": "",
+	"project": "mccdb.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
